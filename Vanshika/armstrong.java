@@ -24,7 +24,7 @@ import java.util.Scanner;
         else {return false;}
             
     }   
-    //driver code  
+    
     public static void main(String args[])     
     {     
         int n;
